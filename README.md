@@ -48,6 +48,34 @@
 - Client Engagement:
 Meeting analysis revealed strong link between engagement and revenue.
 
+# Excel Dashboard
+
+<img width="3000" height="1331" alt="image" src="https://github.com/user-attachments/assets/82f833fa-c9fc-4bae-9074-57913dce623a" />
+
+
+# PowerBi Dashboard
+
+<img width="3002" height="1710" alt="image" src="https://github.com/user-attachments/assets/2bf93dd6-cdcb-45fa-aba1-37acaa77769f" />
+
+<img width="2842" height="1591" alt="image" src="https://github.com/user-attachments/assets/1e7e14bc-cb9b-4f1f-b6ec-7de94eab990b" />
+
+<img width="2900" height="1602" alt="image" src="https://github.com/user-attachments/assets/45c65d95-d74e-438c-92e7-672338b20d87" />
+
+# Tableau Dashboard
+
+<img width="3002" height="1683" alt="image" src="https://github.com/user-attachments/assets/29a2e93b-fee7-46ff-8c8f-d09badf8b49b" />
+
+<img width="2890" height="1481" alt="image" src="https://github.com/user-attachments/assets/d0e82999-46d6-4b48-b6f2-1abc0a2a708d" />
+
+<img width="2900" height="1490" alt="image" src="https://github.com/user-attachments/assets/9e0a1582-79c4-4722-9776-22e3c6e2fad0" />
+
+
+
+
+
+
+
+
 
 
 
