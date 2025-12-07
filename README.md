@@ -21,6 +21,24 @@
  Brokerage - Contain information about clients' policies, including
       policy details, income, and renewal status. It contains duplicate
       records which must be removed.
+      
+ Fees - Contains data on client-related income transactions,
+      including revenue details and transaction types.
+
+Budget - Details the budget allocations for branches and
+     employees, including new roles, cross-sell initiatives, and renewals
+
+Invoice - Holds information about invoices generated, including
+      transaction details and associated clients.
+      
+Meeting - Tracks meetings managed by account executives, including branch associations and attendee details.
+
+
+Opportunity - Documents details of opportunities managed by account executives, including revenue, stages, and risk information.
+
+
+
+
 #  Key KPIs
 
 
